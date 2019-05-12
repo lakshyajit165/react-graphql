@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-graphql/static/css/main.34de6062.chunk.css",
+    "main.js": "/react-graphql/static/js/main.c0bca537.chunk.js",
+    "main.js.map": "/react-graphql/static/js/main.c0bca537.chunk.js.map",
+    "runtime~main.js": "/react-graphql/static/js/runtime~main.6cdb7eb0.js",
+    "runtime~main.js.map": "/react-graphql/static/js/runtime~main.6cdb7eb0.js.map",
+    "static/css/2.266e55a5.chunk.css": "/react-graphql/static/css/2.266e55a5.chunk.css",
+    "static/js/2.8c8588ee.chunk.js": "/react-graphql/static/js/2.8c8588ee.chunk.js",
+    "static/js/2.8c8588ee.chunk.js.map": "/react-graphql/static/js/2.8c8588ee.chunk.js.map",
+    "index.html": "/react-graphql/index.html",
+    "precache-manifest.a6d0d7c2182af947e8be2cbae8f3e947.js": "/react-graphql/precache-manifest.a6d0d7c2182af947e8be2cbae8f3e947.js",
+    "service-worker.js": "/react-graphql/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/react-graphql/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/react-graphql/static/css/main.34de6062.chunk.css.map"
+  }
+}
